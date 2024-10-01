@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development even though I'm not deep in the learning roadmap.
 - 🌱 I’m currently learning JavaScript as I now have a basic understanding of HTML and CSS.
 - 💞️ I’m looking to collaborate on HTML, CSS and JavaScript to enhance my skills. This is my project presently.
+- Goal: My goal is to become a fullstac developer and finally form a softare company.
 - 📫 You can reach me via:
 - Email - dawudshuaibu6565@gmail.com
 - LinkedIn - https://www.linkedin.com/in/dawud-shuaibu-8a7465322/
