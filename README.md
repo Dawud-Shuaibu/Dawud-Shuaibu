@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on HTML, CSS and JavaScript to enhance my skills. This is my project presently.
 - Goal: My goal is to become a fullstack developer and finally form a softare company.
 - 📫 You can reach me via:
-- Email - dawudshuaibu6565@gmail.com
+- Email - dawudshuaibu5665@gmail.com
 - LinkedIn - https://www.linkedin.com/in/dawud-shuaibu-8a7465322/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I enjoy reading tech blogs and staying updated with the latest in web development.
