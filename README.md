@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawud-Shuaibu
 - 👀 I’m interested in Web Development even though I'm not deep in the learning roadmap.
-- 🌱 I’m currently learning JavaScript as I now have a basic understanding of HTML and CSS.
+- 🌱 I’m currently learning JavaScript and PHP as I now have a basic understanding of HTML and CSS.
 - 💞️ I’m looking to collaborate on HTML, CSS and JavaScript to enhance my skills. This is my project presently.
 - Goal: My goal is to become a fullstack developer and finally form a softare company.
 - 📫 You can reach me via:
