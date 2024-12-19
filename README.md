@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Dawud-Shuaibu
-- 👀 I’m interested in Web Development even though I'm not deep in the learning roadmap.
-- 🌱 I’m currently learning JavaScript and PHP as I now have a basic understanding of HTML and CSS.
-- 💞️ I’m looking to collaborate on HTML, CSS and JavaScript to enhance my skills. This is my project presently.
-- Goal: My goal is to become a fullstack developer and finally form a softare company.
+Hello, I'm Dawud Shuaibu 👨‍💻
+I'm a passionate web developer with a focus on creating user-friendly and responsive websites. I have experience with HTML, CSS, Git, Github, and JavaScript, and I'm always learning new technologies to stay up to date with the ever-evolving world of web development.
+
+On my GitHub, you'll find a mix of personal projects, open-source contributions, and experiments with new technologies. I enjoy collaborating with others and always seek to improve my skills while contributing to the community.
+
+Currently, I'm working on building a portfolio website and a to-do list app. I’m also exploring advanced web development techniques and excited to grow my knowledge further.
+
+Feel free to check out my repositories, and don't hesitate to reach out for collaboration opportunities or to discuss web development!
 - 📫 You can reach me via:
 - Email - dawudshuaibu5665@gmail.com
 - LinkedIn - https://www.linkedin.com/in/dawud-shuaibu-8a7465322/
