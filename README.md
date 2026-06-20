@@ -10,5 +10,5 @@ I am a passionate **Web Developer** who focuses on clean, efficient, and user-fr
 
 **Let’s Connect, I am always open for opportunities and collaborations.**
 
-[Website](https://yourwebsite.com), 
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[Website](https://dawud-dev.netlify.app/), 
+[LinkedIn](https://linkedin.com/in/dawud-shuaibu)
